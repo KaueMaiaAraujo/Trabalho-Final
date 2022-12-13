@@ -1,0 +1,200 @@
+/* 
+ESSA CLASSE NÃO SERVE DE NADA,
+APENAS PARA VOCÊS VEREM OS HEXAS
+DAS CORES DO LAYOUT 
+*/
+.cores{
+    color: #4A56F9;
+    color: #BE123C;
+    color: #1F2937;
+    color: #F1F5F9;
+    color: #64748B;
+    color: #3A5479
+}
+
+/*
+################### 
+################### 
+SEU CÓDIGO 
+DAQUI PARA BAIXO 
+##################
+##################
+*/
+ header {
+background-color: #F1F5F9;
+ } 
+
+ .container{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ padding: 25px;
+ margin: auto; 
+ }
+ .user{
+    display: flex;
+    text-align: left;
+    padding: 10px 0px;
+    margin-inline: 50px; 
+    margin-left: 50px;
+ }
+ .user img{
+ margin: 0px 15px;
+ }
+ .container-main{
+  display: flex;
+  flex-direction: column;
+  padding: 30px 0px 0px 357px;
+ }
+
+.input[type="text"] {
+ border: none;
+ width: 442px;
+ height: 5px;
+ background-color: #64748B;
+ padding: 20px;
+ font-size: 18px;
+ }
+ 
+.input[type="submit"] {
+    width: 100px;
+    height: 50px;
+    color: #F1F5F9;
+    background-color: #4A56F9;
+    border: none;
+    font-size: larger;
+    font-weight: bold;
+ }
+
+ .container-main p{
+ font-size:  15px;
+
+ }
+
+.container-main .m37020544-html{
+ background-color: #F1F5F9;
+ display: flex;
+ margin-top: 10px;
+ height: 103px;
+ width: 588px;
+}
+.container-main .m37020544-html img{
+padding: 18px 0px 0px 1px;
+}
+.m37020544 html.text{
+   padding: 27px 0px 14px 0px; 
+}
+.container-main .m37020544-html h4{
+    font-size: 25px;
+}
+.container-main .m37020544-html h3{
+    font-weight: bold;
+    text-align: right;
+    font-size: 50px;
+    margin: 24px 110px;
+    color: #4A56F9;
+}
+.container-main .m37020544-css {
+    background-color: #F1F5F9;
+    display: flex;
+    margin-top: 10px;
+    height: 103px;
+    width: 588px;  
+}
+.container-main .m37020544-css img{
+    padding: 18px 0px 0px 1px;
+}
+.container-main .m37020544-css h3{
+    font-weight: bold;
+    text-align: right;
+    font-size: 50px;
+    margin: 24px 110px;
+    color: #4A56F9;
+}
+.container-main .m37020544-css h4{
+    font-size: 25px;
+}
+.container-main .m37020544-css p{
+    font-size: 15px;
+}
+.container-main .m37020544-java{
+    background-color: #F1F5F9;
+    display: flex;
+    margin-top: 10px;
+    height: 103px;
+    width: 588px;
+}
+.container-main .m37020544-java img{
+   padding: 18px 0px 0px 1px;
+}
+.container-main .m37020544-java text{
+    padding: 27px 0px 14px 0px;
+}
+.container-main .m37020544-java h3{ 
+    font-weight: bold;
+    text-align: right;
+    font-size: 50px;
+    margin: 24px 110px;
+    color: #4A56F9;   
+}
+.container-main .m37020544-java h4{
+    font-size: 25px;
+}
+.container-main .m37020544-Python{
+    background-color: #F1F5F9;
+    display: flex;
+    margin-top: 10px;
+    height: 103px;
+    width: 588px;
+}
+.container-main .m37020544-Python img{
+padding: 18px 0px 0px 1px;
+}
+
+
+.container-main .m37020544-Python text{
+  padding: 27px 0px 14px 0px;
+
+}
+
+
+.container-main .m37020544-Python h3{
+    font-weight: bold;
+    text-align: right;
+    font-size: 50px;
+    margin: 24px 110px;
+    color: #4A56F9; 
+}
+
+.container-main .m37020544-Python h4 {
+    font-size: 25px;
+}
+.container-main .m37020544-SQL{
+    background-color: #F1F5F9;
+    display: flex;
+    margin-top: 10px;
+    height: 103px;
+    width: 588px;
+
+}
+.container-main .m37020544-SQL img{
+padding: 18px 0px 0px 1px;
+}
+.container-main .m37020544-SQL text{
+padding: 27px 0px 14px 0px;
+}
+.container-main .m37020544-SQL h3{
+    font-weight: bold;
+    text-align: right;
+    font-size: 50px;
+    margin: 24px 110px;
+    color: #4A56F9; 
+}
+.container-main .m37020544-SQL h4{
+font-size: 25px;
+}
+.footer{
+    text-align: center;
+    color: #4A56F9;
+    padding: 14px;
+}
