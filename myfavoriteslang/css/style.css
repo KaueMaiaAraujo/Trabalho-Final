@@ -106,8 +106,9 @@ header {
     color: #be123c;
   }
   
-  footer {
-    margin-top: 40px;
-    margin-bottom: 40px;
+    footer .footer{
     text-align: center;
+    color: #4A56F9;
+    padding: 15px;
+}
   }
